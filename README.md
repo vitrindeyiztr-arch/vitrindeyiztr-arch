@@ -1,16 +1,17 @@
-## Hi there 👋
+# Vitrindeyiz - Türkiye'nin En Kapsamlı Yerel İşletme ve Hizmet Rehberi 🚀
 
-<!--
-**vitrindeyiztr-arch/vitrindeyiztr-arch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[Vitrindeyiz](https://vitrindeyiz.com.tr), Türkiye'nin her köşesindeki en kaliteli uzmanları ve işletmeleri keşfetmeniz için tasarlanmış profesyonel bir rehberdir.
 
-Here are some ideas to get you started:
+## 🎯 Bölgesel Hizmet Öne Çıkanlar:
+- [İstanbul En İyi Restoranlar](https://vitrindeyiz.com.tr/en-iyi/istanbul/restoran)
+- [Ankara En Yakın Oto Tamircileri](https://vitrindeyiz.com.tr/en-yakin/ankara/oto-tamir)
+- [İzmir Güvenilir Çilingir Hizmetleri](https://vitrindeyiz.com.tr/guvenilir/izmir/cilingir)
+- [Bursa 7/24 Açık Çilingirler](https://vitrindeyiz.com.tr/7-24-acik/bursa/cilingir)
+- [Antalya Ucuz ve Uygun Oteller](https://vitrindeyiz.com.tr/ucuz/antalya/otel)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🗺️ 81 İlde Vitrindeyiz Rehber Haritası:
+[Adana](https://vitrindeyiz.com.tr/en-iyi/adana) • [Adıyaman](https://vitrindeyiz.com.tr/en-yakin/adiyaman) • [Afyon](https://vitrindeyiz.com.tr/guvenilir/afyonkarahisar) • [Ağrı](https://vitrindeyiz.com.tr/ucuz/agri) • [Aksaray](https://vitrindeyiz.com.tr/7-24-acik/aksaray) • [Amasya](https://vitrindeyiz.com.tr/en-iyi/amasya) • [Ankara](https://vitrindeyiz.com.tr/en-yakin/ankara) • [Antalya](https://vitrindeyiz.com.tr/guvenilir/antalya) • [Ardahan](https://vitrindeyiz.com.tr/ucuz/ardahan) • [Artvin](https://vitrindeyiz.com.tr/7-24-acik/artvin) • [Aydın](https://vitrindeyiz.com.tr/en-iyi/aydin) • [Balıkesir](https://vitrindeyiz.com.tr/en-yakin/balikesir) • [Bartın](https://vitrindeyiz.com.tr/guvenilir/bartin) • [Batman](https://vitrindeyiz.com.tr/ucuz/batman) • [Bayburt](https://vitrindeyiz.com.tr/7-24-acik/bayburt) • [Bilecik](https://vitrindeyiz.com.tr/en-iyi/bilecik) • [Bingöl](https://vitrindeyiz.com.tr/en-yakin/bingol) • [Bitlis](https://vitrindeyiz.com.tr/guvenilir/bitlis) • [Bolu](https://vitrindeyiz.com.tr/ucuz/bolu) • [Burdur](https://vitrindeyiz.com.tr/7-24-acik/burdur) • [Bursa](https://vitrindeyiz.com.tr/en-iyi/bursa) • [Çanakkale](https://vitrindeyiz.com.tr/en-yakin/canakkale) • [Çankırı](https://vitrindeyiz.com.tr/guvenilir/cankiri) • [Çorum](https://vitrindeyiz.com.tr/ucuz/corum) • [Denizli](https://vitrindeyiz.com.tr/7-24-acik/denizli) • [Diyarbakır](https://vitrindeyiz.com.tr/en-iyi/diyarbakir) • [Düzce](https://vitrindeyiz.com.tr/en-yakin/duzce) • [Edirne](https://vitrindeyiz.com.tr/guvenilir/edirne) • [Elazığ](https://vitrindeyiz.com.tr/ucuz/elazig) • [Erzincan](https://vitrindeyiz.com.tr/7-24-acik/erzincan) • [Erzurum](https://vitrindeyiz.com.tr/en-iyi/erzurum) • [Eskişehir](https://vitrindeyiz.com.tr/en-yakin/eskisehir) • [Gaziantep](https://vitrindeyiz.com.tr/guvenilir/gaziantep) • [Giresun](https://vitrindeyiz.com.tr/ucuz/giresun) • [Gümüşhane](https://vitrindeyiz.com.tr/7-24-acik/gumushane) • [Hakkari](https://vitrindeyiz.com.tr/en-iyi/hakkari) • [Hatay](https://vitrindeyiz.com.tr/en-yakin/hatay) • [Iğdır](https://vitrindeyiz.com.tr/guvenilir/igdir) • [Isparta](https://vitrindeyiz.com.tr/ucuz/isparta) • [İstanbul](https://vitrindeyiz.com.tr/7-24-acik/istanbul) • [İzmir](https://vitrindeyiz.com.tr/en-iyi/izmir) • [Kahramanmaraş](https://vitrindeyiz.com.tr/en-yakin/kahramanmaras) • [Karabük](https://vitrindeyiz.com.tr/guvenilir/karabuk) • [Karaman](https://vitrindeyiz.com.tr/ucuz/karaman) • [Kars](https://vitrindeyiz.com.tr/7-24-acik/kars) • [Kastamonu](https://vitrindeyiz.com.tr/en-iyi/kastamonu) • [Kayseri](https://vitrindeyiz.com.tr/en-yakin/kayseri) • [Kırıkkale](https://vitrindeyiz.com.tr/guvenilir/kirikkale) • [Kırklareli](https://vitrindeyiz.com.tr/ucuz/kirklareli) • [Kırşehir](https://vitrindeyiz.com.tr/7-24-acik/kirsehir) • [Kilis](https://vitrindeyiz.com.tr/en-iyi/kilis) • [Kocaeli](https://vitrindeyiz.com.tr/en-yakin/kocaeli) • [Konya](https://vitrindeyiz.com.tr/guvenilir/konya) • [Kütahya](https://vitrindeyiz.com.tr/ucuz/kutahya) • [Malatya](https://vitrindeyiz.com.tr/7-24-acik/malatya) • [Manisa](https://vitrindeyiz.com.tr/en-iyi/manisa) • [Mardin](https://vitrindeyiz.com.tr/en-yakin/mardin) • [Mersin](https://vitrindeyiz.com.tr/guvenilir/mersin) • [Muğla](https://vitrindeyiz.com.tr/ucuz/mugla) • [Muş](https://vitrindeyiz.com.tr/7-24-acik/mus) • [Nevşehir](https://vitrindeyiz.com.tr/en-iyi/nevsehir) • [Niğde](https://vitrindeyiz.com.tr/en-yakin/nigde) • [Ordu](https://vitrindeyiz.com.tr/guvenilir/ordu) • [Osmaniye](https://vitrindeyiz.com.tr/ucuz/osmaniye) • [Rize](https://vitrindeyiz.com.tr/7-24-acik/rize) • [Sakarya](https://vitrindeyiz.com.tr/en-iyi/sakarya) • [Samsun](https://vitrindeyiz.com.tr/en-yakin/samsun) • [Siirt](https://vitrindeyiz.com.tr/guvenilir/siirt) • [Sinop](https://vitrindeyiz.com.tr/ucuz/sinop) • [Sivas](https://vitrindeyiz.com.tr/7-24-acik/sivas) • [Şanlıurfa](https://vitrindeyiz.com.tr/en-iyi/sanliurfa) • [Şırnak](https://vitrindeyiz.com.tr/en-yakin/sirnak) • [Tekirdağ](https://vitrindeyiz.com.tr/guvenilir/tekirdag) • [Tokat](https://vitrindeyiz.com.tr/ucuz/tokat) • [Trabzon](https://vitrindeyiz.com.tr/7-24-acik/trabzon) • [Tunceli](https://vitrindeyiz.com.tr/en-iyi/tunceli) • [Uşak](https://vitrindeyiz.com.tr/en-yakin/usak) • [Van](https://vitrindeyiz.com.tr/guvenilir/van) • [Yalova](https://vitrindeyiz.com.tr/ucuz/yalova) • [Yozgat](https://vitrindeyiz.com.tr/7-24-acik/yozgat) • [Zonguldak](https://vitrindeyiz.com.tr/en-iyi/zonguldak)
+
+## ✍️ Faydalı Linkler:
+- [Ücretsiz İşletme Rehberine Kayıt Ol](https://vitrindeyiz.com.tr/sektorler)
+- [Vitrindeyiz Blog Yazıları](https://vitrindeyiz.com.tr/blog)
